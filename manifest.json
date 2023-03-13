@@ -19,8 +19,6 @@
     "webNavigation",
     "storage",
     "tabs",
-    "http://*/*",
-    "https://*/*",
     "notifications"
   ],
   "applications": {
